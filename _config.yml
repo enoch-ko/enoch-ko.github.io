@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Enoch's Homepage"
+title                    : "Enoch Ko"
 title_separator          : "-"
 name                     : &name "Enoch Ko"
-description              : &description "Enoch's homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Enoch Ko"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://enoch-ko.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Enoch Ko"
   pronouns         : # "he/him"  
-  bio              : "Part III Mathematics Student at the University of Cambridge."
-  location         : "Cambridge, United Kingdom"
-  employer         : # "University of Cambridge"
+  bio              : "Part III Mathematics Student"
+  employer         : "University of Cambridge"
+  location         : "United Kingdom"
   uri              : # URL
   email            : "enoch.eko@gmail.com" 
 
