@@ -10,7 +10,7 @@ redirect_from:
 About me
 ------
 
-Born and raised in Hong Kong, I am currently studying [Part III Mathematics (Theoretical Physics)](https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph) at St John's College, Cambridge. I am also the Physics Team Lead and Expert Project Manager at [Mercor](https://www.mercor.com/research/), where I build and review research-level training material for top AI labs such as Google, Meta, OpenAI, etc. Prior to this, I graduated with a BSc in Mathematics and Physics from the University of Warwick.
+Born and raised in Hong Kong, I am currently studying [Part III Mathematics (Theoretical Physics)](https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph) at St John's College, Cambridge. I am also a Physics Team Lead and Expert Project Manager at [Mercor](https://www.mercor.com/research/), where I build and review research-level training material for top AI labs such as Google, Meta, OpenAI, etc. Prior to this, I graduated with a BSc in Mathematics and Physics from the University of Warwick.
 
 In my spare time, I enjoy brewing some nice filter coffee, solving fun chess puzzles and night-long games of [Mahjong](https://en.wikipedia.org/wiki/Mahjong) (specifically [港式台牌](https://zh.wikipedia.org/wiki/%E6%B8%AF%E5%BC%8F%E5%8F%B0%E7%81%A3%E9%BA%BB%E9%9B%80), though I am finding less time for it these days...). I also own a mischievous cat -- [Doobi](./doobi) -- who wandered into my girlfriend's place around two years ago and stayed with us ever since.
 
